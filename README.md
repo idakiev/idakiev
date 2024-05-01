@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m deeply interested in programming and currently studying **Python**
 
-- ⚡ Fun fact is that **I have a major degree in Architecture**
+- ⚡ Cool fact is that **I have a major degree in Architecture**
 
 <!--
 <h3 align="left">Connect with me:</h3>
