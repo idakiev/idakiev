@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 </p>
 -->
 
+### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g5cHJ5MTI1am82MGU1ZXJqOWhjcmdoN3V0ajZnbjVqNm5pOW1rdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ULb3E2pDABUMurdUBE/giphy.gif" width="80" style="margin-right: 5px;"><br>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
@@ -41,3 +43,4 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://www.svgrepo.com/show/503148/adobe-ai.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="#"><img src="https://www.svgrepo.com/show/503146/adobe-id.svg" alt="indeisgn" width="40" height="40"/></a>
 </p>
+
